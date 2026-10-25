@@ -21,7 +21,8 @@ derniere_maj: 2026-10-25
   annoncé le 2026-08-25 pour « d'ici un mois, un mois et demi », n'a pas été trouvé publié.
   La fiche repose sur des déclarations datées rapportées par la presse (LCP, Public Sénat, Sud Radio/AFP,
   La Gazette France/AFP, L'Info Durable/AFP, Europe 1, Les Nouvelles Calédoniennes/AFP).
-- Primaire : les sources lues donnent 66,17 % (79 613 voix, 120 787 votants), et non 66,13 %.
+- Primaire : LCP et l'AFP (Sud Radio) donnent 66,17 % (79 613 voix, 120 787 votants), retenu ici ;
+  Toute l'Europe (2026-10-11) écrit 66,13 %.
   Les sources lues nomment le PS et Place publique comme organisateurs ; la GRS n'y figure pas comme
   organisatrice : Emmanuel Maurel (GRS) était candidat, et Public Sénat présente le vainqueur comme
   candidat du PS, de Place publique et de la GRS.
