@@ -28,9 +28,9 @@ OpinionWay) : [récapitulatif Élections 2027](https://elections2027.com/sondage
 
 | candidat        | parti porteur        | parlementaires | statut | sources |
 |-----------------|----------------------|----------------|--------|---------|
-| Fabien Roussel  | PCF                  | 14 députés rattachés au PCF | investi le 2026-09-06 (72 % des adhérents) | [LCP, 2026-09-06](https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389) ; [Datan](https://datan.fr/partis-politiques/pcf) |
-| Delphine Batho  | Génération écologie  | elle-même, députée des Deux-Sèvres et présidente du parti | déclarée le 2025-11-25 | [L'Info Durable, 2025-11-25](https://www.linfodurable.fr/lex-ministre-delphine-batho-candidate-la-presidentielle-pour-conjurer-la-rikikisation-de-lecologie) |
-| François Ruffin | Debout !             | lui-même, seul député du mouvement (Somme) | déclaré « sous conditions » : ira seul en l'absence de primaire ; à confirmer | [Wikipédia, Debout !](https://en.wikipedia.org/wiki/Debout!) ; [LCP, liste des candidats](https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373) |
+| Fabien Roussel  | PCF                  | 14 députés rattachés au PCF | investi le 2026-09-06 (72 % des adhérents) ; fiche `roussel-fabien` | [LCP, 2026-09-06](https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389) ; [Datan](https://datan.fr/partis-politiques/pcf) |
+| Delphine Batho  | Génération écologie  | elle-même, députée des Deux-Sèvres et présidente du parti | déclarée le 2025-11-25 ; fiche `batho-delphine` | [L'Info Durable, 2025-11-25](https://www.linfodurable.fr/lex-ministre-delphine-batho-candidate-la-presidentielle-pour-conjurer-la-rikikisation-de-lecologie) |
+| François Ruffin | Debout !             | lui-même, seul député du mouvement (Somme) | déclaré le 2026-01-26 (TF1) ; condition « s'il n'y a pas de primaire » remplie (primaire unitaire abandonnée en juillet 2026) ; fiche `ruffin-francois` | [Wikipédia, Debout !](https://en.wikipedia.org/wiki/Debout!) ; [LCP, liste des candidats](https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373) |
 
 ## Non inclus à ce jour
 
