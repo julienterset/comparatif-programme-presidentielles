@@ -14,15 +14,15 @@ OpinionWay) : [récapitulatif Élections 2027](https://elections2027.com/sondage
 
 | candidat            | parti              | fourchette | fiche |
 |---------------------|--------------------|------------|-------|
-| Marine Le Pen       | RN                 | 31 – 36 %  | à faire |
+| Marine Le Pen       | RN                 | 31 – 36 %  | `le-pen-marine` |
 | Jean-Luc Mélenchon  | LFI                | 15 – 18 %  | `melenchon-jean-luc` |
 | Édouard Philippe    | Horizons           | 12 – 17 %  | `philippe-edouard` |
-| Raphaël Glucksmann  | Place publique     | 11 – 15,5 % | à faire |
-| David Lisnard       | Nouvelle Énergie   | 5,5 – 7 %  | à faire |
-| Bruno Retailleau    | LR                 | 4 – 7 %    | à faire |
-| Éric Zemmour        | Reconquête         | 3 – 5 %    | à faire |
-| Gabriel Attal       | Renaissance        | 4 %        | à faire |
-| Marine Tondelier    | Les Écologistes    | 2 – 3 %    | à faire |
+| Raphaël Glucksmann  | Place publique     | 11 – 15,5 % | `glucksmann-raphael` |
+| David Lisnard       | Nouvelle Énergie   | 5,5 – 7 %  | `lisnard-david` |
+| Bruno Retailleau    | LR                 | 4 – 7 %    | `retailleau-bruno` |
+| Éric Zemmour        | Reconquête         | 3 – 5 %    | `zemmour-eric` |
+| Gabriel Attal       | Renaissance        | 4 %        | `attal-gabriel` |
+| Marine Tondelier    | Les Écologistes    | 2 – 3 %    | `tondelier-marine` |
 
 ## Inclus au titre des parlementaires du parti
 
